@@ -68,7 +68,7 @@ thanks for coming into my life . i feel good after talking with you my love my s
   </p>
 
   <!-- 🎵 Background music (autoplay from YouTube) -->
-  <iframe width="0" height="0" src="https://www.youtube.com/embed/A6eHr0spgqs?autoplay=1&loop=1&playlist=A6eHr0spgqs" frameborder="0" allow="autoplay"></iframe>
+  <iframe width="0" height="0" src="https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8?si=b486ac32aec74ec0" frameborder="0" allow="autoplay"></iframe>
 </body>
 </html>
 
