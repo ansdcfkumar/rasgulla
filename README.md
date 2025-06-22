@@ -58,7 +58,7 @@
 
   <h1>I Love You Baby Girl 💖</h1>
 
-  <img src="C:\Users\LP\Downloads\HD-wallpaper-hanuman-bajrangabli-thumbnail.jpg" alt="C:\Users\LP\Downloads\20250113_092245_101.jpg">
+  <img src="C:\Users\LP\Downloads\images.jpeg" alt=".jpg">
 
   <p>
     <!-- ✍️ Write your heartfelt message here -->
